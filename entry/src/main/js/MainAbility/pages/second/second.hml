@@ -1,0 +1,6 @@
+<div class="container">
+    <text class="title">
+        Hi there
+    </text>
+    <input class="btn" type="button" value="Back" onclick="back"></input>
+</div>
